@@ -23,6 +23,8 @@ public class Ejemplogit {
          }else{
              System.out.println("asdasdasd");
          }
+        Ejemplogit git=new Ejemplogit();
+        
     }
     
 }

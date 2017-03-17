@@ -15,7 +15,14 @@ public class Ejemplogit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("asdasdasd");
+        
+         int a=10;
+         int b=45;
+         if(b>a){
+             System.out.println("a es menor que b");
+         }else{
+             System.out.println("asdasdasd");
+         }
     }
     
 }
